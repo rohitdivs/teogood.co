@@ -1,7 +1,8 @@
-@font-face {
-    font-family: Futura;
+@font-face{
+    font-family: futura ;
     src: url(./Futura-Bold.ttf);
 }
+
 @font-face {
     font-family: Gilroy;
     src: url(./Gilroy-Medium.ttf);
